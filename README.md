@@ -1,7 +1,7 @@
 # Argument Simulator: Philosophical Debates
 # Recreation of a text game found in "Talos Principle" using python 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ugine-bor/argument-simulator)
+![GitHub last commit](https://img.shields.io/github/last-commit/ugine-bor/TextGame)
 
 ## Features
 
