@@ -21,6 +21,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/ugine-bor/TextGame.git
+   cd TextGame
    ```
 2. Install dependencies:
    ```bash
