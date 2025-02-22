@@ -32,7 +32,7 @@
    python main.py
    ```
 
-## 🎯 How to Play
+## How to Play
 
 ```text
 1. Choose your character:
