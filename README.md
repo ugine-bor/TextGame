@@ -62,5 +62,4 @@
 - **Loop Counter System** unlocks dialogue options
 
 ---
-*"Будет здорово, если мы начнем понимать друг друга."*
-```
+*"It will be great if we start to understand each other."*
